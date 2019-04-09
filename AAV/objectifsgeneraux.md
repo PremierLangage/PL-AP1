@@ -32,3 +32,4 @@
 - transformer une cascade de block conditionnels en une expressions booléenne et reciproquement 
 - écrire pour une expression d'interval (mathématique) un test d'appartenance 
 - écrire une expression conditionnellé d'appartenance à une partie du plan définie par deux inégalitées. 
+- opérateurs logiques fénéants 

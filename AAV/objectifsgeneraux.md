@@ -2,7 +2,7 @@
 # Objectifs généraux 
 
 
-Programme
+## Programme
 1. Variables-Constantes-identificateurs-types élémentaires-opérations-référence
 2. Conditionnelles-Booleans-if-else-elif-opérateurs 
 3. Boucles-While-For-range-continue-break
@@ -16,7 +16,8 @@ Programme
 11. Liste chainés (et autre structures recursives).
 
 
-AAV 
+## AAV 
+### Variables
 - identifier les variables et les mots clefs (hightligth de l'éditeur)
 - apprendre par coeur la liste des motsclefs de python
 - identifier les variables en oppostion aux constantes 
@@ -24,8 +25,10 @@ AAV
 - identifier le type d'une variables (en partant des constantes et en utilisant les opérations)
 - identifier les opérations, nommer les opérations, calculer le resultat d'une opération A op B pour une liste de type et d'opérateurs à définir (modifiable au cours du semestre).
 - suivre les références à travers une suite d'affectation 
-
+### Conditionnelles
 - Nommer, écrire, reconnaitre les deux booléens du python
 - différencier les expressions numériques (ou autre) des expressions bouléennes 
 - Calculer le parcourt de l'exécutioin d'un code en fonction des données fournies (préparation a la notion de couverture de code pour les tests).
 - transformer une cascade de block conditionnels en une expressions booléenne et reciproquement 
+- écrire pour une expression d'interval (mathématique) un test d'appartenance 
+- écrire une expression conditionnellé d'appartenance à une partie du plan définie par deux inégalitées. 

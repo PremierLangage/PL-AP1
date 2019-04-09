@@ -17,6 +17,11 @@
 
 
 ## AAV 
+
+1. Savoir concevoir et réaliser un petit logiciel sans difficultés algorithmique répondant à un cahier des charges bien écrit
+
+
+
 ### Variables
 - identifier les variables et les mots clefs (hightligth de l'éditeur)
 - apprendre par coeur la liste des motsclefs de python

@@ -11,7 +11,8 @@ opérateur
 instruction  
 type  
 alinéa == indentation  
-sémantique  
+sémantique
+mémoire
 
 ### Vocabulaire programmation NSI
 programme  

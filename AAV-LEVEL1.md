@@ -1,6 +1,10 @@
 
 # AAV Principaux
 
+Les 5 objectifs principaux pour AP1 et 2.
+
+
+
 Appliquer des concepts de programmation fondamentaux, en utilisant un langage de programmation orienté objet, pour résoudre des problèmes importants
 
 Comprendre les types de base et les avantages du typage statique pour les programmes orientés objet

@@ -2,11 +2,6 @@
 
 Traduit par Google translate.
 
-
-
-Traduit par Google translate.
-
-
 Aquis d'apprentissage Visés
 =======================================
 

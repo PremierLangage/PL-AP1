@@ -3,7 +3,18 @@
 
 Les 5 objectifs principaux pour AP1 et 2.
 
+Distinguer la définition du langage de l'implémentation, de la syntaxe la sémantique et de l'évaluation,
 
+Comprendre comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), Comprendre les implications de l'accessibilité du tas pour la gestion de la mémoire ("libération")
+
+Développer, comprendre, tester et faire évoluer des programmes simples. 
+
+
+
+
+
+
+## AAV en réserve pour autre chose 
 
 Appliquer des concepts de programmation fondamentaux, en utilisant un langage de programmation orienté objet, pour résoudre des problèmes importants
 

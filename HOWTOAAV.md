@@ -3,6 +3,10 @@
 Traduit par Google translate.
 
 
+
+Traduit par Google translate.
+
+
 Aquis d'apprentissage Visés
 =======================================
 
@@ -121,7 +125,7 @@ savoir comment l\'apprentissage des élèves sera démontré.
 
 ------------------------------------------------------------------------
 
-**Exemples: utilisation des meilleures mesures d\'action pour les résultats d\'apprentissage du programme **
+**Exemples: utilisation des meilleures mesures d\'action pour les AAV **
 ------------------------------------------------------------------------------------------------------------
 
 +-----------------------+-----------------------+-----------------------+
@@ -184,14 +188,18 @@ aidera à guider les activités pédagogiques et l\'évaluation. Les
 instructeurs doivent donc sélectionner avec soin l\'accent mis sur
 l\'apprentissage et le verbe approprié.
 
-  Niveau   Catégorie       comportement cognitif
-  -------- --------------- -------------------------------------------------------------------------------------------------------------------------------------
-  1        Connaissance    connaître des faits, des termes, des concepts, des principes ou des théories spécifiques
-  2        Compréhension   comprendre, interpréter, comparer et contraster, expliquer
-  3        Application     appliquer les connaissances à de nouvelles situations, résoudre des problèmes
-  4        Une analyse     identifier la structure organisationnelle de quelque chose; identifier les parties, les relations et les principes d\'organisation
-  5        Synthèse        créer quelque chose, intégrer des idées dans une solution, proposer un plan d\'action, formuler un nouveau schéma de classification
-  6        Évaluation      juger de la qualité d\'un objet en fonction de son adéquation, de sa valeur, de sa logique ou de son utilisation 
+  Niveau   Catégorie        comportement cognitif
+  ------- --------------  ----------------------------------------------------------------------------------
+  1        Connaissance     connaître des faits, des termes, des concepts, 
+                            des principes ou des théories spécifiques
+  2        Compréhension    comprendre, interpréter, comparer et contraster, expliquer
+  3        Application      appliquer les connaissances à de nouvelles situations, résoudre des problèmes
+  4        Une analyse      identifier la structure organisationnelle de quelque chose; identifier les parties,
+                            les relations et les principes d\'organisation
+  5        Synthèse         créer quelque chose, intégrer des idées dans une solution, 
+                            proposer un plan d\'action, formuler un nouveau schéma de classification
+  6        Évaluation       juger de la qualité d\'un objet en fonction de son adéquation, 
+                            de sa valeur, de sa logique ou de son utilisation 
 
 **Choisissez Effacer, verbes d\'action mesurables. Évitez les verbes vagues.**
 ------------------------------------------------------------------------------
@@ -201,7 +209,7 @@ Les verbes concrets tels que « **définir** », « **argumenter** » ou «
 tels que «connaître», «comprendre» ou passifs tels que «être exposé à».
 
 Quelques exemples de mots d\'action fréquemment utilisés dans les
-résultats d\'apprentissage sont inclus dans le tableau ci-dessous en
+AAV sont inclus dans le tableau ci-dessous en
 fonction des niveaux de comportements cognitifs de Bloom.\
  
 
@@ -268,7 +276,7 @@ fonction des niveaux de comportements cognitifs de Bloom.\
 **Les trois domaines d\'apprentissage**
 ---------------------------------------
 
-Selon les objectifs du cours, les résultats d\'apprentissage peuvent
+Selon les objectifs du cours, les AAV peuvent
 cibler un éventail de compétences ou de processus cognitifs. La
 taxonomie des objectifs éducatifs de Bloom (1956) distingue trois
 domaines d\'apprentissage: cognitif, affectif et psychomoteur.
@@ -276,7 +284,7 @@ domaines d\'apprentissage: cognitif, affectif et psychomoteur.
 +-----------------------+-----------------------+-----------------------+
 | domaine               | cible                 | concentrer            |
 +=======================+=======================+=======================+
-| Cognitif              | Connaissances,        | Pénsée                |
+| Cognitif              | Connaissances,        | Pensée                |
 |                       | compétences           |                       |
 |                       | intellectuelles       |                       |
 +-----------------------+-----------------------+-----------------------+

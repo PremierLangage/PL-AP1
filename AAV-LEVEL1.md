@@ -7,7 +7,9 @@ Distinguer la définition du langage de l'implémentation, de la syntaxe la sém
 
 Comprendre comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), Comprendre les implications de l'accessibilité du tas pour la gestion de la mémoire ("libération")
 
-Développer, comprendre, tester et faire évoluer des programmes simples. 
+Développer, comprendre, tester et faire évoluer des programmes simples.
+
+Programmes simple : 3 structures de données, 1 algorithme un peu évolué (nécessitant une lecture), quelque centaines de lignes. Besoin détaillé exprimé en une ou deux pages.
 
 
 

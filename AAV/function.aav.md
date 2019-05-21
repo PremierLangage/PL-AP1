@@ -41,3 +41,11 @@ Décrire pas à pas l'éxécution d'un programme contenant des fonctions
 
 Décrire l'états de l'ensemble des variables d'un programme pendant l'exécution de fonctions
 
+argument d'appel  nommés 
+```
+Utiliser la syntaxe *args dans un exemple
+Utiliser la syntaxe **args dans un exemple
+Ecire une fonction avec un argument *args 
+Ecire une fonction avec un argument **args 
+```
+

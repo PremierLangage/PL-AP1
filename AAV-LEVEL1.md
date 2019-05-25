@@ -1,15 +1,17 @@
 
 # AAV Principaux
 
-Les 5 objectifs principaux pour AP1 et 2.
+A la fin du cours de AP les étudiants :
 
-Distinguer la définition du langage de l'implémentation, de la syntaxe la sémantique et de l'évaluation,
+seront capables de développer, comprendre, tester et faire évoluer des programmes simples utilisable dans des situations concrètes.
 
-Comprendre comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), Comprendre les implications de l'accessibilité du tas pour la gestion de la mémoire ("libération")
+aurons aquits un vocabulaire permettant d'expliciter ce qui distinque la définition du langage, de l'implémentation,  la syntaxe de la sémantique, les types des valeurs. 
 
-Développer, comprendre, tester et faire évoluer des programmes simples.
+maitriserons les structures syntaxiques élémentaires du langage python: variables,  constantes, références, conditionnelles, boucles, fonctions, listes, tuples, allocation, portée, mutabilité.  
 
-Programmes simple : 3 structures de données, 1 algorithme un peu évolué (nécessitant une lecture), quelque centaines de lignes. Besoin détaillé exprimé en une ou deux pages.
+comprendrons comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), comprendrons l'importance d'oublier des valeurs  ("libération").
+
+**Programmes simple** : 3 structures de données, 1 algorithme un peu évolué (nécessitant une lecture), quelque centaines de lignes. Besoin détaillé exprimé en une ou deux pages.
 
 
 
@@ -17,6 +19,10 @@ Programmes simple : 3 structures de données, 1 algorithme un peu évolué (néc
 
 
 ## AAV en réserve pour autre chose 
+
+** Comme vous pouvez voir nous ne manquons pas d'objectifs, la question esr plus l'embarra du choix**
+
+
 
 Appliquer des concepts de programmation fondamentaux, en utilisant un langage de programmation orienté objet, pour résoudre des problèmes importants
 

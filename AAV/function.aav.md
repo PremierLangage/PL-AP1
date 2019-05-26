@@ -15,7 +15,7 @@ Décomposer un algorithme en fonctions, PL: vérifier sur des exos un peu long l
 Exercice : ecrire un code avec un nombre limité de caractères (les fonctions devraient etre une grande aide).
 Exercice : ecrire un code avec trois fonctions de moins de 10 lignes.
 
-Eviter d'écrire des fonctions trop longue ou trop compliquées (analyse automatique d'un Devoir maison).
+Eviter d'écrire des fonctions trop longue ou trop compliquées (analyse automatique d'un Devoir maison). pylama
 
 différencier les fonctions des instructions
 

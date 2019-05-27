@@ -1,11 +1,26 @@
 
 # AAV Principaux
 
-A la fin du cours de AP les étudiants :
 
-* seront capables de développer, tester et faire évoluer des programmes simples utilisable dans des situations concrètes.
+A la fin du cours de AP1, les étudiants :
+* seront capables d'écrire en binome un programme Python, en suivant un cahier des charges (cf. liste des projets de 2018-2019).
+* seront capables d'écrire un programme Python réalisant une fonctionnalité (calcul mathématique etc...)
+* seront capables de tester un programme python.
+* seront capables de faire évoluer (ie. ajouter une fonctionnalité à) un programme python.
 
-* auront acquit un vocabulaire permettant d'expliciter ce qui distinque la définition du langage de l'implémentation, la syntaxe de la sémantique, les types des valeurs. 
+
+**Programmes simple** : 
+Un programme simple est un programme répondant à un besoin détaillé exprimé en une ou deux pages dont l'objectif du programme peut être atteint en utilisant au maximum trois-quatre types sémantiques.
+L'algorithme utilisé doit être un algorithme dont la compréhension nécessite au plus la lecture d'une référence (cf. liste des projets 2018-2019)
+
+**Faire évoluer un programme**
+Etre capable de lire un programme
+Décrire sa structure
+Trouver un endroit où se réalise une fonctionalité
+Modifier une fonctionnalité
+Modifier une structure de programme pour ajouter une nouvelle fonctionnalité
+
+* auront acquis un vocabulaire permettant d'expliciter ce qui distinque la définition du langage de l'implémentation, la syntaxe de la sémantique, les types des valeurs. 
 
 * maitriseront les structures syntaxiques élémentaires du langage python : variables,  constantes, références, conditionnelles, boucles, fonctions, listes, tuples, allocation, portée, mutabilité.  
 
@@ -14,7 +29,6 @@ A la fin du cours de AP les étudiants :
 * comprendront l'importance d'oublier des valeurs  ("libération").
 
 
-**Programmes simple** : 3 structures de données, 1 algorithme un peu évolué (nécessitant une lecture), quelque centaines de lignes. Besoin détaillé exprimé en une ou deux pages.
 
 
 

@@ -5,13 +5,13 @@ A la fin du cours de AP les étudiants :
 
 seront capables de développer, tester et faire évoluer des programmes simples utilisable dans des situations concrètes.
 
+auront acquit un vocabulaire permettant d'expliciter ce qui distinque la définition du langage de l'implémentation, la syntaxe de la sémantique, les types des valeurs. 
 
+maitriseront les structures syntaxiques élémentaires du langage python : variables,  constantes, références, conditionnelles, boucles, fonctions, listes, tuples, allocation, portée, mutabilité.  
 
-aurons aquits un vocabulaire permettant d'expliciter ce qui distinque la définition du langage, de l'implémentation,  la syntaxe de la sémantique, les types des valeurs. 
+comprendront comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), 
 
-maitriserons les structures syntaxiques élémentaires du langage python: variables,  constantes, références, conditionnelles, boucles, fonctions, listes, tuples, allocation, portée, mutabilité.  
-
-comprendrons comment l'état du programme est mappé en mémoire (globaux / statiques, locals / pile, tas / instances), comprendrons l'importance d'oublier des valeurs  ("libération").
+comprendront l'importance d'oublier des valeurs  ("libération").
 
 
 **Programmes simple** : 3 structures de données, 1 algorithme un peu évolué (nécessitant une lecture), quelque centaines de lignes. Besoin détaillé exprimé en une ou deux pages.
@@ -23,7 +23,7 @@ comprendrons comment l'état du programme est mappé en mémoire (globaux / stat
 
 ## AAV en réserve pour autre chose 
 
-** Comme vous pouvez voir nous ne manquons pas d'objectifs, la question esr plus l'embarra du choix**
+** Comme vous pouvez voir nous ne manquons pas d'objectifs, la question est plus l'embarras du choix**
 
 
 

@@ -54,7 +54,7 @@ La même chose, mais :
 	* Investissement et la répartition des taches dans le binôme
 	* est-ce que le rapport est en cohérence avec la démonstration du soft ?
 
-__Attention :__
+* _Attention :_
 	* b est trop large, probablement
 	* pas beaucoup sur le rapport
 
@@ -64,8 +64,8 @@ __Attention :__
 	* Passable
 	* Insuffisant
 
-__est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
-	("S'il fallait le refaire, qu'est-ce que tu changerais ?")__
+_est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
+	("S'il fallait le refaire, qu'est-ce que tu changerais ?")_
 
 
 ## Exemple de grille critériée en AP2

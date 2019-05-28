@@ -44,26 +44,28 @@ La même chose, mais :
 
 ## Proposition de grille critériée
 
-Critère 1 : fonctionnement du jeu
 
-critères :
-----------
-a) le jeu fonctionne
-b) le jeu réponds au cahier des charges (ex. : lorsque l'on joue, on ne voit pas la grille de l'adversaire) 
-c) l'interface est ergonomique
-d) les éléments de régles du jeu sont valides (ex. : la règle de placements des bateaux ; plouf, en vue, touché/coulé ; conditions de fin de jeu)
-e) Quid de la qualité du code (est-ce qu'il y a de la documentation ? est-ce que le code est lisible ? est-ce qu'il y a des tests ? qu'elle est la complexité cyclomatique)
-f) Investissement et la répartition des taches dans le binôme
-g) est-ce que le rapport est en cohérence avec la démonstration du soft ?
+* critères :
+	* le jeu fonctionne
+	* le jeu réponds au cahier des charges (ex. : lorsque l'on joue, on ne voit pas la grille de l'adversaire) 
+	* l'interface est ergonomique
+	* les éléments de régles du jeu sont valides (ex. : la règle de placements des bateaux ; plouf, en vue, touché/coulé ; conditions de fin de jeu)
+	* Quid de la qualité du code (est-ce qu'il y a de la documentation ? est-ce que le code est lisible ? est-ce qu'il y a des tests ? qu'elle est la complexité cyclomatique)
+	* Investissement et la répartition des taches dans le binôme
+	* est-ce que le rapport est en cohérence avec la démonstration du soft ?
 
-Attention :
-* b est trop large, probablement
-* pas beaucoup sur le rapport
+__Attention :__
+	* b est trop large, probablement
+	* pas beaucoup sur le rapport
 
-Niveau de la grille : Excellent/Bien/Passable/Insuffisant
+* Niveau de la grille :
+	* Excellent
+	* Bien
+	* Passable
+	* Insuffisant
 
-* est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
-	("S'il fallait le refaire, qu'est-ce que tu changerais ?")
+__est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
+	("S'il fallait le refaire, qu'est-ce que tu changerais ?")__
 
 
 ## Exemple de grille critériée en AP2

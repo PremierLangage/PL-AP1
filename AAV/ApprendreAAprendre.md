@@ -1,4 +1,4 @@
-**avoir appris à apprendre, c'est être capable de ...**
+**Avoir appris à apprendre, c'est être capable de ...**
 
 * évaluer ce que l'on ne sait pas
 * identifier ses objectifs d'apprentissages

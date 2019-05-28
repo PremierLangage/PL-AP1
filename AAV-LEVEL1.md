@@ -2,7 +2,7 @@
 # AAV Principaux
 
 
-A la fin du cours de AP1, les étudiants :
+A la fin du cours d'AP1, les étudiants :
 * seront capables d'écrire en binome un programme fonctionnel (correct ?) en Python de quelques centaines de lignes, en suivant un cahier des charges (cf. liste des projets de 2018-2019), 
 * seront capables d'écrire seul un programme Python de quelques lignes, réalisant une fonctionnalité donnée (calcul mathématique etc...)
 * seront capables de tester un programme python.

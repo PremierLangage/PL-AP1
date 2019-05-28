@@ -20,8 +20,6 @@ Ils doivent préparer une soutenance :
 
 
 On observe :
-============
-
 * est-ce que le jeu fonctionne ?
 * est-ce que le programme est utilisable ?
 * est-ce qu'il y a de la documentation ?
@@ -34,6 +32,4 @@ On observe :
 
 
 On n'observe pas :
-==================
-
 * Le temps de travail passé pour produire le rendu

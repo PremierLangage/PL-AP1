@@ -19,7 +19,7 @@ Ils doivent préparer une soutenance :
 * ils devront défendre leur production pendant 15 minutes
 
 Warning : on doit demander de pouvoir placer x bateaux
----------
+
 
 **On observe :**
 * est-ce que le jeu fonctionne ?

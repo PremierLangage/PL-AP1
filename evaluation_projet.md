@@ -54,17 +54,16 @@ La même chose, mais :
 	* Investissement et la répartition des taches dans le binôme
 	* est-ce que le rapport est en cohérence avec la démonstration du soft ?
 
-* _Attention :_
-	* b est trop large, probablement
-	* pas beaucoup sur le rapport
-
 * Niveau de la grille :
 	* Excellent
 	* Bien
 	* Passable
 	* Insuffisant
 
-_est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
+* _Attention :_
+	* le 2nd critère est trop large, probablement
+	* pas beaucoup sur le rapport
+	* Non utilisé : _est-ce que, d'après eux, les étudiants ont appris quelque chose au cours de la soutenance ?
 	("S'il fallait le refaire, qu'est-ce que tu changerais ?")_
 
 

@@ -37,5 +37,5 @@ Ils doivent préparer une soutenance :
 # Evaluation certificative
 
 La même chose, mais :
--> les binômes choisissent un sujet dans une liste (qui ne contient plus la bataille navale !)
--> les étudiants ont 1 mois pour réaliser le projet
+* les binômes choisissent un sujet dans une liste (qui ne contient plus la bataille navale !)
+* les étudiants ont 1 mois pour réaliser le projet

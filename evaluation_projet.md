@@ -33,3 +33,9 @@ Ils doivent préparer une soutenance :
 
 **On n'observe pas :**
 * Le temps de travail passé pour produire le rendu
+
+# Evaluation certificative
+
+La même chose, mais :
+-> les binômes choisissent un sujet dans une liste (qui ne contient plus la bataille navale !)
+-> les étudiants ont 1 mois pour réaliser le projet

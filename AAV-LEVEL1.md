@@ -6,7 +6,7 @@ A la fin du cours de AP1, les étudiants :
 * seront capables d'écrire en binome un programme Python de quelques centaines de lignes, en suivant un cahier des charges (cf. liste des projets de 2018-2019).
 * seront capables d'écrire seul un programme Python de quelques lignes, réalisant une fonctionnalité donnée (calcul mathématique etc...)
 * seront capables de tester un programme python.
-* seront capables de faire évoluer (ie. ajouter une fonctionnalité à) un programme python.
+* seront capables de faire évoluer un programme python.
 
 
 **Programmes simple** : 
@@ -19,6 +19,11 @@ L'algorithme utilisé doit être un algorithme dont la compréhension nécessite
 * Trouver un endroit où se réalise une fonctionalité
 * Modifier une fonctionnalité
 * Modifier une structure de programme pour ajouter une nouvelle fonctionnalité
+
+**Tester un programme**
+* Etre capable d'exécuter un programme
+* Etre capable de vérifier que le programme réalise bien la tache demandée
+* Etre capable d'écrire des doctests
 
 * auront acquis un vocabulaire permettant d'expliciter ce qui distinque la définition du langage de l'implémentation, la syntaxe de la sémantique, les types des valeurs. 
 

@@ -296,7 +296,8 @@ Critère 5 : Efficience (le cas échéant)
     + Dégager des heures payées sur une matière pour des réunions pédago
       régulières
         * Exemple : en AP1, réduire le nombre d'heures de présentiel, organiser
-          une réunion hebdomadaire obligatoire d'une heure
+          une réunion hebdomadaire obligatoire d'une heure et du travail hebdomadaire
+          de développement de ressources
     + Préciser les modalités d'évaluation en AP1
         * Mettre en place des expérimentations de grilles critériées sur des
           évaluations choisies

@@ -210,58 +210,7 @@ fonction des niveaux de comportements cognitifs de Bloom.\
 
 
 
-|--------|--------|--------|--------|--------|--------|
-| **Connaissance** | **Compréhension** | **Application** | **Une analyse** | **Synthèse**   | **Évaluation** |
-
-------------------------------------------------------------------
-| définir   | classer   | appliquer | analyser  | organiser | évaluer   |
-------------------------------------------------------------------
-| identifier | décrire   | calculer  | évaluer   | assembler | évaluer   |
-------------------------------------------------------------------
-| indiquer  | discuter  | construct | calculer  | collecte  | choisir   |
-|           |           | ion       |           |           |           |
-------------------------------------------------------------------
-| savoir    | Explique  | démontrer | classer   | composer  | comparer  |
-|           |           |           | par       |           |           |
-|           |           |           | catégorie |           |           |
-|           |           |           | s         |           |           |
-------------------------------------------------------------------
-| étiquette | Express   | dramatise | comparer  | construct | contraste |
-|           |           | r         |           | ion       |           |
-------------------------------------------------------------------
-| liste     | identifier | employer  | contraste | créer     | décider   |
-
-------------------------------------------------------------------
-| mémoriser | Localiser | donne des | critiquer | conception | estimation |
-|           |           | exemples  |           |           |          |
-------------------------------------------------------------------
-| prénom    | paraphrase | illustrer | débat     | formuler  | évaluer   |
-------------------------------------------------------------------
-| rappel    | reconnaître | interpréter | détermine | gérer     | qualité   |
-
-------------------------------------------------------------------
-| record    | rapport   | enquêter  | diagramme | organiser | juge      |
-------------------------------------------------------------------
-| rapporter | réitérer  | fonctionn | différenc | effectuer | mesure    |
-|           |           | er        | ier       |           |           |
-------------------------------------------------------------------
-| répéter   | la revue  | organiser | distinguer | plan      | taux      |
-------------------------------------------------------------------
-| sélection | suggérer  | entraine  | examiner  | préparer  | réviser   |
-| ner       |           | toi       |           |           |           |
-------------------------------------------------------------------
-| souligner | résumer   | prédire   | expérience | produire  | But       |
-------------------------------------------------------------------
-|           | dire      | programme | inspecter | proposer  | sélectionner |
-------------------------------------------------------------------
-|           | Traduire  | boutique  | inventaire | installer | valeur    |
-------------------------------------------------------------------
-|           |           | esquisser | question  |           |           |
-------------------------------------------------------------------
-|           |           | Traduire  | rapporter |           |           |
-------------------------------------------------------------------
-|           |           | utilisation | résoudre  |           |           |
-------------------------------------------------------------------
+(tableau)[tableau.md]
 
 **Les trois domaines d\'apprentissage**
 ---------------------------------------

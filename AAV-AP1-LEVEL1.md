@@ -131,3 +131,20 @@ Démontrer une compréhension de base des principes du réseau.
 Travailler efficacement en équipe.
 Appliquez les compétences sur lesquelles ce programme est axé aux scénarios de gestion.
 
+
+
+
+# AATP licence +option info 
+Intitulé
+1) Maîtriser des savoirs disciplinaires et interdisciplinaires complexes
+2) Appliquer une démarche scientifique, développer des idées novatrices et gérer un projet
+3) Etre autonome dans leurs apprentissages dans des contextes diversifiés
+4) Communiquer de façon claire, précise, ouverte et efficace
+5) Travailler en équipe et entretenir des relations interpersonnelles durables
+6) Etre actif face aux changements et agir en acteur socialement responsable
+
+## Spécialité informatique 
+1.1 Identifier et caractériser les principaux éléments fonctionnels et l’architecture matérielle d’un ordinateur, interpréter les informations techniques fournies par les constructeurs, écrire des routines simples en langage machine.
+1.2 Caractériser les outils logiques et algébriques fondamentaux (théorie des langages et de la compilation, logique et raisonnement, ordres, induction) et leurs implications dans la programmation et la modélisation.
+2.1 Concevoir, implémenter et exploiter des bases de données.
+2.2 Identifier les concepts fondamentaux de complexité, calculabilité, décidabilité, vérification : apprécier la complexité et les limites de validité d’une solution.
